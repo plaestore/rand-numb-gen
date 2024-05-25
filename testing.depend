@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1716170477 source:c:\users\hp\documents\c projects\testing\hey.cpp
+	"Hey.h"
+	<iostream>
+
+1716170071 c:\users\hp\documents\c projects\testing\hey.h
+
+1716676452 source:c:\users\hp\documents\c projects\testing\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
